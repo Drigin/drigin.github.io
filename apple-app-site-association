@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": {
+            "968SAW33QE.com.dtech.SeamlessLink": {
+                "paths": [ "/file", "/file/*" ]
+            }
+        }
+    }
+}
