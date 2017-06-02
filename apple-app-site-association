@@ -1,1 +1,1 @@
-{    "applinks": {        "apps": [],        "details": {            "968SAW33QE.com.dtech.SeamlessLink": {                "paths": [ "/file", "/file/*" ]            }        }    }}
+{    "applinks": {        "apps": [],        "details": {            "D4EKATK87H.com.swisstech.pbios": {                "paths": [ "/file", "/file/*" ]            },            {            "2X85N89LCY.com.swisstech.pbios": {                "paths": [ "/file", "/file/*" ]            }        }    }}
