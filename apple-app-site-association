@@ -1,1 +1,1 @@
-{    "applinks": {        "apps": [],        "details": {            "D4EKATK87H.com.swisstech.pbios": {                "paths": [ "/file", "/file/*" ]            },            {            "2X85N89LCY.com.swisstech.pbios": {                "paths": [ "/file", "/file/*" ]            }        }    }}
+{	"applinks": {		"apps": [],		"details": [{				"appID": "D4EKATK87H.com.swisstech.pbios",				"paths": ["/file", "/file/*"]			},			{				"appID": "2X85N89LCY.com.swisstech.pbios",				"paths": ["/file", "/file/*"]			}		]	}}
